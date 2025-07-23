@@ -1,6 +1,5 @@
 body {
   font-family: sans-serif;
-  margin: 0;
   padding: 1rem;
   background: #fdfdfd;
   max-width: 800px;
@@ -22,6 +21,11 @@ body {
 nav {
   text-align: center;
   margin-top: 20px;
+}
+nav a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 img.fade-edges {
@@ -45,8 +49,4 @@ img.fade-edges {
   margin-right: auto;
 }
 
-nav a {
-  color: black;
-  font-weight: bold;
-  text-decoration: none;
-}
+
