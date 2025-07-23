@@ -23,3 +23,9 @@ nav {
   text-align: center;
   margin-top: 20px;
 }
+
+img.fade-edges {
+  mask-image: linear-gradient(to bottom, transparent, black 20%, black 80%, transparent);
+  -webkit-mask-image: linear-gradient(to bottom, transparent, black 20%, black 80%, transparent);
+}
+
