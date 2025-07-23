@@ -29,3 +29,8 @@ img.fade-edges {
   -webkit-mask-image: linear-gradient(to bottom, transparent, black 20%, black 80%, transparent);
 }
 
+nav a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
