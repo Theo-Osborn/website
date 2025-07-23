@@ -19,3 +19,7 @@ body {
   display: block;
   border: 1px solid #ccc;
 }
+nav {
+  text-align: center;
+  margin-top: 20px;
+}
